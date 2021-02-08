@@ -1,1 +1,5 @@
 # StudyNote
+
+## Copyright
+
+Shingo Hosoda
